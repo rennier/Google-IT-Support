@@ -11,89 +11,60 @@ Certificate:
 <h1></h1>
 <em>This course covered topics such as:</em><br><br>
 
-**1.Foundations of Cybersecurity**
-<br>Recognizing core skills and knowledge needed to become a cybersecurity analyst
-<br>Identifing how security attacks impact business operations
-<br>Explaininging security ethics
-<br>Identifing common tools used by cybersecurity analysts
+**1.Technical Support Fundamentals**
+This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you’ll be introduced to the world of Information Technology, or IT. You’ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what’s to come in this certificate program.
+<br>
+By the end of this course, you’ll be able to:
+<li>Understand how the binary system works</li>
+<li>Assemble a computer from scratch</li>
+<li>Choose and install an operating system on a computer</li>
+<li>Understand what the Internet is, how it works, and the impact it has in the modern world</li>
+<li>Learn how applications are created and how they work under the hood of a computer</li>
+<li>Utilize common problem-solving methodologies and soft skills in an Information Technology setting</li><br>
 
-
-**2.Play It Safe: Manage Security Risks<br>**
-Identifing the primary threats, risks, and vulnerabilities to business operations.<br>
-Examining how organizations use security frameworks and controls to protect business operations.<br>
-Defining commonly used Security Information and Event Management (SIEM) tools.<br>
-Using a playbook to respond to threats, risks, and vulnerabilities.<br> 
-**<em>Hands-on, practice-based assessments included:</em>**
-  <li>Botium Toys Audit✔️  </li>
-  <li>Compliance Checklist✔️  </li>
-  <li>Controls Assesment Checklist/Priority✔️  </li>
-  <li>Stakeholders Memorandum✔️  </li>
+**2.The Bits & Bytes of Computer Networking<br>**
+This course is designed to provide a full overview of computer networking. We’ll cover everything from the fundamentals of modern networking technologies and protocols to an overview of the cloud to practical applications and network troubleshooting. By the end of this course, you’ll be able to:
+<li>Describe computer networks in terms of a five-layer model</li>
+<li>Understand all of the standard protocols involved with TCP/IP communications </li>
+<li>Grasp powerful network troubleshooting tools and techniques </li>
+<li>Learn network services like DNS and DHCP that help make computer networks run</li>
+<li>Understand cloud computing, everything as a service, and cloud storage</li>
  <br>
 
-**3.Connect and Protect: Networks and Network Security<br>**
-Defining the types of networks and components of networks.<br>
-Illustrating how data is sent and received over a network.<br>
-Understandinging how to secure a network against intrusion tactics.<br>
-Describing system hardening techniques.<br>
-**<em>Hands-on, practice-based assessments included:</em>**  
-  <li>Analyzing Network Attacks✔️</li>
-  <li>Analysis of Network Hardening✔️</li>
-  <li>Analyzing Network Layer Communications✔️</li>
-  <li>Applying OS Hardening Technique✔️s</li>
-  <li>NIST Incident Report Analysis✔️</li>
+**3.Operating Systems and You; Becoming a Power User<br>**
+In this course -- through a combination of video lectures, demonstrations, and hands-on practice -- you’ll learn about the main components of an operating system and how to perform critical tasks like managing software and users, and configuring hardware. By the end of this course you’ll be able to:
+<li>Navigate the Windows and Linux filesystems using a graphical user interface and command line interpreter </li>
+<li>Set up users, groups, and permissions for account access </li>
+<li>Install, configure, and remove software on the Windows and Linux operating systems </li>
+<li>Configure disk partitions and filesystems </li>
+<li>Understand how system processes work and how to manage them</li>
+<li>Work with system logs and remote connection tools</li>
+<li>Utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role</li>
   <br>
 
-**4.Tools of the Trade: Linux and SQL.<br>**
-Explaininging the relationship between operating systems, applications, and hardware.<br>
-Compareing a graphical user interface to a command line interface.<br>
-Navigating and manage the file system using Linux commands via the Bash shell.<br>
-Use SQL to retrieve information from a database.<br>
-**<em>Hands-on, practice-based assessments included:</em>** 
- <li>Manageing File Permissions Linux✔️</li>
- <li>Applying Filters to SQL Queries✔️</li>
+**4. System Administration and IT Infrastructure Services.<br>**
+This course will transition you from working on a single computer to an entire fleet. Systems administration is the field of IT that’s responsible for maintaining reliable computers systems in a multi-user environment. In this course, you’ll learn about the infrastructure services that keep all organizations, big and small, up and running. We’ll deep dive on cloud so that you’ll understand everything from typical cloud infrastructure setups to how to manage cloud resources. You'll also learn how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity. Finally, you’ll learn how to recover your organization’s IT infrastructure in the event of a disaster. By the end of this course you’ll be able to:
+<li>Utilize best practices for choosing hardware, vendors, and services for your organization </li>
+<li>Understand how the most common infrastructure services that keep an organization running work, and how to manage infrastructure servers</li>
+<li>Understand how to make the most of the cloud for your organization </li>
+<li>Manage an organization’s computers and users using the directory services, Active Directory, and OpenLDAP</li>
+<li>Choose and manage the tools that your organization will use </li>
+<li>Backup your organization’s data and know how to recover your IT infrastructure in the case of a disaster</li>
+<li>Utilize systems administration knowledge to plan and improve processes for IT environments</li>
  <br>
 
 
-**5.Assets, Threats, and Vulnerabilities<br>**
-Classifying assets<br>
-Analyzing an attack surface to find risks and vulnerabilities<br>
-Identifying threats, such as social engineering, malware and web-based exploits<br>
-Summarizing the threat modeling process<br>
-**<em>Hands-on, practice-based assessments included:</em>**
-  <li>Analyzing a Vulnerable System for a Small Business✔️</li>
+**5.IT Security: Defense against the digital dark arts<br>**
+This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up. We’ll give you some background of encryption algorithms and how they’re used to safeguard data. Then, we’ll dive into the three As of information security: authentication, authorization, and accounting. We’ll also cover network security solutions, ranging from firewalls to Wifi encryption options. The course is rounded out by putting all these elements together into a multi-layered, in-depth security architecture, followed by recommendations on how to integrate a culture of security into your organization or team.
+At the end of this course, you’ll understand: 
+<li>How various encryption algorithms and techniques work as well as their benefits and limitations.</li>
+<li>Various authentication systems and types.</li>
+<li>The difference between authentication and authorization.</li>
+<li>How to evaluate potential risks and recommend ways to reduce risk. </li>
+<li>Best practices for securing a network.</li>
+<li>How to help others to grasp security concepts and protect themselves.</li>
   <br>
 
-**6.Sound the Alarm: Detection and Response<br>**
-Identifying the steps to contain, eradicate, and recover from an incident<br>
-Analyzing packets to interpret network communications<br>
-Understanding basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools<br>
-Performingqueries in Security Information and Event Management (SIEM) tools to investigate an event<br>
-**<em>Hands-on, practice-based assessments included:</em>**
-  <li>Documenting Incident Handler's Journal (with template)✔️</li>
-  <li>Finalizing Incident Handler's Journal✔️</li>
-  <br>
-
-
-**7.Automate Cybersecurity Tasks with Python<br>**
-Explaining how the Python programming language is used in cybersecurity<br>
-Creating new, user-defined Python functions<br>
-Using regular expressions to extract information from text<br>
-Practicing debugging code<br>
-**<em>Hands-on, practice-based assessments included:</em>** 
-  <li>Update Files through a Python Algorithm✔️</li>
-  <br>
-
-**This course taught me new technical skills in:**
-<br>
-<li>Risk management</li>
-<li>Threat analysis</li>
-<li>Network security</li>
-<li>Incident response</li>
-<li>Network protocol analyzers (Wireshark and tcpdump)</li>
-<li>SIEM Tools (Chronicle and Splunk)</li>
-<li>IDS/IPS Tools</li>
-<li>Firewalls</li>
-<br>
 
 **Directory Structure<br>**
 <h1></h1>
