@@ -1,16 +1,13 @@
-# Google-IT-Support
+# Google IT Support Professional Certificate
 
 Certificate:
 
-<img src="https://github.com/rennier/Google-Cyber-Security-Portfolio/blob/80d8d1b7f215f7af41323f0ce2ba15dc2b72fef0/Google%20Cybersecurity%20Certificate-Rennie%20Ramlochan.png" alt="View certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
+<img src="https://github.com/rennier/Google-IT-Support/blob/14ca464afac333bf29ab043eb7e46bf8c4d0e57c/Google%20IT%20Support%20Certificate-Rennie%20Ramlochan.png" alt="View certificate for Rennie Ramlochan, Google IT Support, offered through Coursera. Those who earn the Google IT Support Certificate have completed five courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in IT Support. ."/>
 
-**Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera.** 
+**Certificate for Rennie Ramlochan, Google IT Support, offered through Coursera.** 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in cybersecurity like cybersecurity analyst, security operations center (SOC) analyst, and more. 
 
-They are competent in Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
-
-***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
+***The focus of this Portfolio was to gather, improve and complete activies related to IT Support and presented in Google's Professional IT Support Specialization offered through Coursera.*** 
 <h1></h1>
 <em>This course covered topics such as:</em><br><br>
 
